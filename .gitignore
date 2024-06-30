@@ -1,0 +1,13 @@
+# django essentials
+media/
+db.sqlite3
+*.pyc
+__pycache__
+
+# secrets
+secrets.py
+
+# personal
+log.txt
+notes.txt
+temp.html
